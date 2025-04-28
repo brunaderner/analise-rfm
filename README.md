@@ -27,10 +27,10 @@ Realizar uma segmentação da base de clientes da loja "O Mercado" utilizando a 
 
 - Link para a planilha de dados: [Google Sheets](https://docs.google.com/spreadsheets/d/1_E2wwfR9YxtgV2mbxb2xPde1LLlZ5F9Zm2hjZDqQlSQ/edit?usp=sharing)
 - Link para o dashboard interativo: [Looker Studio](https://lookerstudio.google.com/reporting/ff9d9626-041a-447c-a0ff-dbbe6034c224)
-- Link para a apresentação final: [Google Slides](bruna-derner.pdf)
+- Link para a apresentação final: [Google Slides](presentation/bruna-derner.pdf)
 
 ## Ficha Técnica
-- Acesse a documentação [Google Documentos](ficha-tecnica-bruna-derner.pdf)
+- Acesse a documentação [Google Documentos](ficha-tecnica/ficha-tecnica-bruna-derner.pdf)
 ### Metodologia
 
 - **Integração:** 
@@ -73,10 +73,11 @@ As análises permitem que a loja “O Mercado” direcione suas estratégias de 
 
 Assista à apresentação completa no Loom:
 
-▶️ [Assistir vídeo](https://www.loom.com/share/19a970bcbc9146f3aca84aa4c87f0a0d?sid=7a580ea5-8a83-47fb-a3ba-42cd74f21c3e)
+[Assistir vídeo](https://www.loom.com/share/19a970bcbc9146f3aca84aa4c87f0a0d?sid=7a580ea5-8a83-47fb-a3ba-42cd74f21c3e)
 
 ## Autora
 
 **Bruna Derner**  
 Analista de Dados
+
 [Linkedin](https://www.linkedin.com/in/bruna-derner/)
