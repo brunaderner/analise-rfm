@@ -18,7 +18,7 @@ Realizar uma segmentação da base de clientes da loja "O Mercado" utilizando a 
 ## Estrutura
 
 - **dados-primarios/**: Planilhas originais utilizadas para análise
-- **dataset/**: Compilação e transformação dos dados em planilhas integradas
+- **dataset/**: Compilado das planilhas integradas
 - **dashboard/**: Dashboard interativo desenvolvido no Looker Studio
 - **presentation/**: Apresentação final com principais resultados
 - **ficha-tecnica/**: Documento técnico com a descrição detalhada do projeto
@@ -78,6 +78,7 @@ Assista à apresentação completa no Loom:
 ## Autora
 
 **Bruna Derner**  
-Analista de Dados
+Economista e Analista de Dados
+
 
 [Linkedin](https://www.linkedin.com/in/bruna-derner/)
