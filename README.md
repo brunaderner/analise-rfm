@@ -56,8 +56,8 @@ Realizar uma segmentação da base de clientes da loja "O Mercado" utilizando a 
 ## Principais Resultados
 
 - **Clientes de Alto Valor:**  
-  - 56% da base está concentrada em três segmentos principais (Fiéis, Fiéis em Potencial e Em Risco), representando mais de 86% da receita.
-
+  - 64,8% da base está concentrada em Fiéis, Fiéis em Potencial e Grandes Gastadores. Juntos, esses segmentos representam mais de 95% da receita da empresa.
+    
 - **Perfil dos Clientes:**  
   - Maioria com ensino superior completo ou pós-graduação.
   - Faixa etária predominante entre 45 e 54 anos.
